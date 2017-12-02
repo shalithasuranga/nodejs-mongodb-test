@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mongodb-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create": "node app.js create",
+    "show": "node app.js show"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalithasuranga/nodejs-mongodb-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalithasuranga/nodejs-mongodb-test/issues"
+  },
+  "homepage": "https://github.com/shalithasuranga/nodejs-mongodb-test#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
+}
